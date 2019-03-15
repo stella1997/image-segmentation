@@ -1,0 +1,24 @@
+﻿Build started 2017/6/22 21:32:59.
+     1>Project "C:\Users\gesangdianzi\Desktop\SLIC独立代码(用来做效果图)\SLIC独立代码\SLIC独立代码.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Program Files (x86)\Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>d:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>d:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+     1>c:\users\gesangdianzi\desktop\slic独立代码(用来做效果图)\slic独立代码\main.cpp(103): warning C4305: '=' : truncation from 'int' to 'uchar'
+     1>c:\users\gesangdianzi\desktop\slic独立代码(用来做效果图)\slic独立代码\main.cpp(103): warning C4309: '=' : truncation of constant value
+     1>c:\users\gesangdianzi\desktop\slic独立代码(用来做效果图)\slic独立代码\main.cpp(104): warning C4305: '=' : truncation from 'int' to 'uchar'
+     1>c:\users\gesangdianzi\desktop\slic独立代码(用来做效果图)\slic独立代码\main.cpp(104): warning C4309: '=' : truncation of constant value
+     1>c:\users\gesangdianzi\desktop\slic独立代码(用来做效果图)\slic独立代码\main.cpp(105): warning C4305: '=' : truncation from 'int' to 'uchar'
+     1>c:\users\gesangdianzi\desktop\slic独立代码(用来做效果图)\slic独立代码\main.cpp(105): warning C4309: '=' : truncation of constant value
+       Link:
+         D:\Program Files (x86)\Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\gesangdianzi\Desktop\SLIC独立代码(用来做效果图)\Debug\SLIC独立代码.exe" /INCREMENTAL /NOLOGO opencv_ts300d.lib opencv_world300d.lib opencv_ts300.lib opencv_world300.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\gesangdianzi\Desktop\SLIC独立代码(用来做效果图)\Debug\SLIC独立代码.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\gesangdianzi\Desktop\SLIC独立代码(用来做效果图)\Debug\SLIC独立代码.lib" /MACHINE:X86 Debug\ComputeTime.obj
+         Debug\main.obj
+         Debug\SLIC.obj
+         SLIC独立代码.vcxproj -> C:\Users\gesangdianzi\Desktop\SLIC独立代码(用来做效果图)\Debug\SLIC独立代码.exe
+     1>Done Building Project "C:\Users\gesangdianzi\Desktop\SLIC独立代码(用来做效果图)\SLIC独立代码\SLIC独立代码.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.20
